@@ -10,3 +10,13 @@ Starting in your root source code directory, make a bare clone of the PhoneGap B
 ```
 git clone https://github.com/julianandreszb/vue-2.0-browserify-vueify-phonegap
 ```
+
+```
+cd vue-2.0-browserify-vueify-phonegap
+```
+```
+npm install
+```
+```
+npm run build
+ ```
